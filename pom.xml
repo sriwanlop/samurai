@@ -23,6 +23,7 @@
 
 
     <build>
+        <finalName>samurai</finalName>
         <plugins>
 
             <plugin>
